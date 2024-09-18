@@ -132,3 +132,4 @@ def send_market_data_update(data):
 
 if __name__ == '__main__':
     app.run(debug=True)
+    socketio.run(app, debug=True)

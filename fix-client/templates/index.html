@@ -6,6 +6,7 @@
     <title>FIX Client GUI</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
     <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+    <script src="/socket.io/socket.io.js"></script>
 <body>
     <h1>FIX Client</h1>
     <div id="connection-status" class="disconnected">
