@@ -1,0 +1,144 @@
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #000; /* Solid black background */
+  color: #fff;
+  margin: 0;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1, h2 {
+  color: #fff;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+/* Connection Status */
+#connection-status {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+#connection-status.connected {
+  background-color: rgba(34, 193, 195, 0.1);
+}
+
+#connection-status.disconnected {
+  background-color: rgba(255, 0, 0, 0.1);
+}
+
+/* Order Controls */
+#order-controls {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+#order-form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: #ddd;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.1);
+  color: #ddd;
+}
+
+/* Ensuring Placeholder Text is Visible */
+input::placeholder {
+  color: #aaa; /* Light grey for visibility */
+  opacity: 1;
+}
+
+/* Buttons */
+button {
+  padding: 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff; /* Blue button */
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+button:disabled {
+  background-color: #555555;
+  cursor: not-allowed;
+}
+
+button:hover:not(:disabled) {
+  background-color: #0056b3;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* Market Data */
+#market-data {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+#market-data button {
+  margin-right: 10px;
+}
+
+/* Order Status */
+#order-status {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+#order-status-form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Feedback Messages */
+.hidden {
+  display: none;
+}
+
+#order-confirmation,
+#market-status,
+#status-response {
+  color: #32CD32;
+  margin-top: 10px;
+  font-weight: bold;
+}

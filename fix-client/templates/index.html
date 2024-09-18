@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIX Client GUI</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+<body>
+    <h1>FIX Client</h1>
+    <div id="connection-status" class="disconnected">
+        <p>Connection Status: Not Connected</p>
+    </div>
+
+    <div id="order-controls">
+        <h2>Order Entry</h2>
+        <form id="order-form">
+            <label for="action">Action:</label>
+            <select id="action" name="action">
+                <option value="buy">Buy</option>
+                <option value="sell">Sell</option>
+            </select>
+            <br>
+            <label for="symbol">Symbol:</label>
+            <input type="text" id="symbol" name="symbol" placeholder="e.g. USD/BRL" required>
+            <br>
+            <label for="quantity">Quantity:</label>
+            <input type="number" id="quantity" name="quantity" min="1" required>
+            <br>
+            <button type="submit">Place Order</button>
+        </form>
+        <p id="order-confirmation" class="hidden">Order placed successfully!</p>
+    </div>
+
+    <div id="market-data">
+        <h2>Market Data</h2>
+        <p id="market-status">No market data subscribed yet.</p>
+        <button id="subscribe-market-data">Subscribe</button>
+        <button id="unsubscribe-market-data" disabled>Unsubscribe</button>
+    </div>
+
+    <div id="order-status">
+        <h2>Order Status</h2>
+        <form id="order-status-form">
+            <label for="cl_ord_id">ClOrdID:</label>
+            <input type="text" id="cl_ord_id" name="cl_ord_id" placeholder="Enter ClOrdID" required>
+            <br>
+            <button type="submit">Check Status</button>
+        </form>
+        <p id="status-response" class="hidden"></p>
+    </div>
+</body>
+</html>
