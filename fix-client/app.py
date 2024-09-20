@@ -1,20 +1,51 @@
-from flask import Flask, request, jsonify, render_template
 from flask_socketio import SocketIO
+from flask import Flask, request, jsonify, render_template, send_from_directory, url_for
 from Client import Client
 from Market_maker import MarketMaker
 import quickfix as fix
 import traceback
 import logging
+import os
 from functools import wraps
 
-app = Flask(__name__)
-socketio = SocketIO(app)
+#app = Flask(__name__)
+#socketio = SocketIO(app)
+#client = Client()
+#initiator = None
+app = Flask(__name__, static_url_path='/static')
+socketio = SocketIO(app)  # Initialize SocketIO with your Flask app
 client = Client()
-initiator = None
-
+initiator = MarketMaker
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
+
+@app.context_processor
+def override_url_for():
+    return dict(url_for=dated_url_for)
+
+
+@app.template_filter('bust_cache')
+def bust_cache(filename):
+    if filename.startswith('http'):
+        return filename
+
+    file_path = os.path.join(app.root_path, 'static', filename)
+    if not os.path.exists(file_path):
+        return url_for('static', filename=filename)
+
+    timestamp = int(os.stat(file_path).st_mtime)
+    return url_for('static', filename=filename, t=timestamp)
+
+def dated_url_for(endpoint, **values):
+    if endpoint == 'static':
+        filename = values.get('filename', None)
+        if filename:
+            file_path = os.path.join(app.root_path,
+                                     endpoint, filename)
+            values['q'] = int(os.stat(file_path).st_mtime)
+    return url_for(endpoint, **values)
+
 def send_market_data_update(self, data):
     # This function should be called whenever there's new market data
     # It should use the Flask-SocketIO emit function
