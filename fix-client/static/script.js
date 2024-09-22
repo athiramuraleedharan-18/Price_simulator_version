@@ -13,6 +13,10 @@ document.addEventListener('DOMContentLoaded', () => {
   connectionStatus.classList.remove('disconnected');
   connectionStatus.classList.add('connected');
 
+// Simulated exchange rates for USD/BRL and BRL/USD
+let exchangeRateUSD_BRL = 4.75; // Example: 1 USD = 4.75 BRL
+let exchangeRateBRL_USD = 1 / exchangeRateUSD_BRL; // Example: 1 BRL = ~0.21 USD
+
   // Handle order form submission
   orderForm.addEventListener('submit', (event) => {
     event.preventDefault();
@@ -30,6 +34,46 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 3000);
   });
 
+  // Handle price input by user
+  function calculatePrice() {
+    const quantity = parseInt(document.getElementById('quantity').value);
+    const priceField = document.getElementById('price');
+    const symbol = document.getElementById('symbol').value;
+
+    if (quantity && (symbol === 'USD/BRL' || symbol === 'BRL/USD')) {
+        let totalPrice;
+         if (symbol === 'USD/BRL') {
+            // USD to BRL conversion
+            totalPrice = quantity * exchangeRateUSD_BRL;
+            priceField.value = `$ ${totalPrice.toFixed(2)}`; // Price in BRL
+        } else if (symbol === 'BRL/USD') {
+            // BRL to USD conversion
+            totalPrice = quantity * exchangeRateBRL_USD;
+            priceField.value = `$ ${totalPrice.toFixed(2)}`; // Price in USD
+        }
+    } else {
+        priceField.value = ''; // Clear the price field if input is invalid
+    }
+}
+
+// Add event listener to update price when quantity changes
+document.getElementById('quantity').addEventListener('input', calculatePrice);
+
+// Handle order form submission
+orderForm.addEventListener('submit', (event) => {
+    event.preventDefault();
+    const action = document.getElementById('action').value;
+    const symbol = document.getElementById('symbol').value;
+    const quantity = parseInt(document.getElementById('quantity').value);
+    const price = document.getElementById('price').value;
+
+ if (symbol === 'USD/BRL' || symbol === 'BRL/USD') {
+        console.log(`Placing order: ${action}, Symbol: ${symbol}, Quantity: ${quantity}, Price: ${price}`);
+        alert(`Order placed successfully at ${price}!`);
+    } else {
+        alert('Please enter a valid currency pair (e.g., USD/BRL or BRL/USD).');
+    }
+});
   // Handle market data subscription
   subscribeButton.addEventListener('click', () => {
     console.log('Subscribing to market data');

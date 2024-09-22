@@ -27,9 +27,14 @@
             <input type="text" id="symbol" name="symbol" placeholder="e.g. USD/BRL" required>
             <br>
             <label for="quantity">Quantity:</label>
-            <input type="number" id="quantity" name="quantity" min="1" required>
+
+            <input type="number" id="quantity" name="quantity" min="1" oninput="calculatePrice()" required>
+            <br>
+            <label for= "price">Price:</label>
+            <input type="text" id="price" name="price" readonly placeholder="Price">
             <br>
             <button type="submit">Place Order</button>
+
         </form>
         <p id="order-confirmation" class="hidden">Order placed successfully!</p>
     </div>
