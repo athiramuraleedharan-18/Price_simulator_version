@@ -81,8 +81,7 @@ class MarketMaker(fix.Application):
         fix.Session.sendToTarget(order, session_id)
 
     def send_market_data_update(self, data):
-        # This function should be called whenever there's new market data
-        # It should use the Flask-SocketIO emit function
+        # for new market data, call flask_socketio.emit
         from app import socketio
         socketio.emit('market_data_update', data)
 
@@ -159,7 +158,7 @@ def main():
         print("Market Maker started.")
         # Use an infinite loop to keep the application running
         while True:
-            time.sleep(1)  # Sleep to prevent busy waiting
+            time.sleep(1)
     except (fix.ConfigError, fix.RuntimeError) as e:
         print(f"Error starting market maker: {e}")
         sys.exit()

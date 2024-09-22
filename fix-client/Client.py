@@ -2,7 +2,6 @@ import sys
 import quickfix as fix
 import quickfix44 as fix44
 import random
-import csv
 from datetime import datetime
 import logging
 
@@ -18,10 +17,6 @@ class Client(fix.Application):
         self.session_id = None
         self.md_req_id = None
         self.is_logged_on = False
-        self.csv_file = open('fix_messages.csv', 'w', newline='')
-        self.csv_writer = csv.writer(self.csv_file)
-        self.csv_writer.writerow(
-            ['Date', 'Time', 'MsgType', 'Symbol', 'Side', 'OrderQty', 'Price', 'OrderID', 'ExecType', 'OrdStatus'])
 
     def onCreate(self, session_id):
         self.session_id = session_id
@@ -62,9 +57,6 @@ class Client(fix.Application):
         date = now.strftime("%Y-%m-%d")
         time = now.strftime("%H:%M:%S.%f")[:-3]
 
-        self.csv_writer.writerow(
-            [date, time, msg_type, symbol, side, order_qty, price, order_id, exec_type, ord_status])
-        self.csv_file.flush()
 
     def get_field_value(self, message, field):
         try:
@@ -170,8 +162,7 @@ class Client(fix.Application):
             raise Exception(f"Failed to send order status request: {str(e)}")
 
     def send_market_data_update(self, data):
-        # This function should be called whenever there's new market data
-        # It should use the Flask-SocketIO emit function
+
         from app import socketio
         socketio.emit('market_data_update', data)
 def parse_input(input_string):
@@ -179,7 +170,7 @@ def parse_input(input_string):
     action = parts[0]
     tags = {}
     for i in range(1, len(parts), 2):
-        tag = parts[i][1:]  # Remove the leading '-'
+        tag = parts[i][1:]
         value = parts[i + 1]
         tags[tag] = value
     return action, tags
@@ -237,7 +228,7 @@ def main():
                 print(f"Error: {e}")
 
         initiator.stop()
-        application.csv_file.close()
+
     except (fix.ConfigError, fix.RuntimeError) as e:
         logger.error(f"Error starting client: {e}")
         print(f"Error starting client: {e}")
