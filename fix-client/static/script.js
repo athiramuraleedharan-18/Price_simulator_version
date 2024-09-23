@@ -7,34 +7,18 @@ document.addEventListener('DOMContentLoaded', () => {
   const marketStatus = document.getElementById('market-status');
   const orderStatusForm = document.getElementById('order-status-form');
   const statusResponse = document.getElementById('status-response');
-
+  const quantityInput = document.getElementById('quantity');
+  
   // Simulate connection
   connectionStatus.textContent = 'Connection Status: Connected';
   connectionStatus.classList.remove('disconnected');
   connectionStatus.classList.add('connected');
 
-// Simulated exchange rates for USD/BRL and BRL/USD
-let exchangeRateUSD_BRL = 4.75; // Example: 1 USD = 4.75 BRL
-let exchangeRateBRL_USD = 1 / exchangeRateUSD_BRL; // Example: 1 BRL = ~0.21 USD
+  // Simulated exchange rates for USD/BRL and BRL/USD
+  let exchangeRateUSD_BRL = 4.75; // Example: 1 USD = 4.75 BRL
+  let exchangeRateBRL_USD = 1 / exchangeRateUSD_BRL; // Example: 1 BRL = ~0.21 USD
 
-  // Handle order form submission
-  orderForm.addEventListener('submit', (event) => {
-    event.preventDefault();
-    const action = document.getElementById('action').value;
-    const symbol = document.getElementById('symbol').value;
-    const quantity = document.getElementById('quantity').value;
-
-    console.log(`Placing order: ${action}, Symbol: ${symbol}, Quantity: ${quantity}`);
-
-    // Simulate order placement
-    orderConfirmation.textContent = 'Order placed successfully!';
-    orderConfirmation.classList.remove('hidden');
-    setTimeout(() => {
-      orderConfirmation.classList.add('hidden');
-    }, 3000);
-  });
-
-  // Handle price input by user
+  // Function to calculate price based on quantity and symbol
   function calculatePrice() {
     const quantity = parseInt(document.getElementById('quantity').value);
     const priceField = document.getElementById('price');
@@ -42,7 +26,7 @@ let exchangeRateBRL_USD = 1 / exchangeRateUSD_BRL; // Example: 1 BRL = ~0.21 USD
 
     if (quantity && (symbol === 'USD/BRL' || symbol === 'BRL/USD')) {
         let totalPrice;
-         if (symbol === 'USD/BRL') {
+        if (symbol === 'USD/BRL') {
             // USD to BRL conversion
             totalPrice = quantity * exchangeRateUSD_BRL;
             priceField.value = `$ ${totalPrice.toFixed(2)}`; // Price in BRL
@@ -54,26 +38,32 @@ let exchangeRateBRL_USD = 1 / exchangeRateUSD_BRL; // Example: 1 BRL = ~0.21 USD
     } else {
         priceField.value = ''; // Clear the price field if input is invalid
     }
-}
+  }
 
-// Add event listener to update price when quantity changes
-document.getElementById('quantity').addEventListener('input', calculatePrice);
+  // Add event listener to update price when quantity changes
+  quantityInput.addEventListener('input', calculatePrice);
 
-// Handle order form submission
-orderForm.addEventListener('submit', (event) => {
+  // Handle order form submission
+  orderForm.addEventListener('submit', (event) => {
     event.preventDefault();
     const action = document.getElementById('action').value;
     const symbol = document.getElementById('symbol').value;
     const quantity = parseInt(document.getElementById('quantity').value);
     const price = document.getElementById('price').value;
 
- if (symbol === 'USD/BRL' || symbol === 'BRL/USD') {
+    if (symbol === 'USD/BRL' || symbol === 'BRL/USD') {
         console.log(`Placing order: ${action}, Symbol: ${symbol}, Quantity: ${quantity}, Price: ${price}`);
         alert(`Order placed successfully at ${price}!`);
+        orderConfirmation.textContent = 'Order placed successfully!';
+        orderConfirmation.classList.remove('hidden');
+        setTimeout(() => {
+          orderConfirmation.classList.add('hidden');
+        }, 3000);
     } else {
         alert('Please enter a valid currency pair (e.g., USD/BRL or BRL/USD).');
     }
-});
+  });
+
   // Handle market data subscription
   subscribeButton.addEventListener('click', () => {
     console.log('Subscribing to market data');
@@ -95,8 +85,6 @@ orderForm.addEventListener('submit', (event) => {
     const clOrdId = document.getElementById('cl_ord_id').value;
 
     console.log(`Checking status for order: ${clOrdId}`);
-
-    // Simulate order status check
     statusResponse.textContent = `Order ${clOrdId} status: In Progress`;
     statusResponse.classList.remove('hidden');
   });

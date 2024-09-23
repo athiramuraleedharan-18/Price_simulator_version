@@ -6,7 +6,6 @@
     <title>FIX Client GUI</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
     <script src="{{ url_for('static', filename='script.js') }}" defer></script>
-
 </head>
 <body>
     <h1>FIX Client</h1>
@@ -27,14 +26,12 @@
             <input type="text" id="symbol" name="symbol" placeholder="e.g. USD/BRL" required>
             <br>
             <label for="quantity">Quantity:</label>
-
-            <input type="number" id="quantity" name="quantity" min="1" oninput="calculatePrice()" required>
+            <input type="number" id="quantity" name="quantity" min="1" required>
             <br>
-            <label for= "price">Price:</label>
+            <label for="price">Price:</label>
             <input type="text" id="price" name="price" readonly placeholder="Price">
             <br>
             <button type="submit">Place Order</button>
-
         </form>
         <p id="order-confirmation" class="hidden">Order placed successfully!</p>
     </div>
