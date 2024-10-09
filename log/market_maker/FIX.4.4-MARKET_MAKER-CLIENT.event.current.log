@@ -1,0 +1,654 @@
+20241008-08:07:43.962782000 : Created session
+20241008-08:08:32.979636000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:08:33.006836000 : Received logon request
+20241008-08:08:33.010223000 : Responding to logon request
+20241008-08:08:33.094297000 : Socket Error: Connection reset by peer.
+20241008-08:08:33.094882000 : Disconnecting
+20241008-08:09:41.385902000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:09:41.472771000 : Received logon request
+20241008-08:09:41.476829000 : Responding to logon request
+20241008-08:09:41.538985000 : Socket Error: Connection reset by peer.
+20241008-08:09:41.540014000 : Disconnecting
+20241008-08:14:02.079464000 : Created session
+20241008-08:14:06.929454000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:14:06.949665000 : Received logon request
+20241008-08:14:06.951554000 : Responding to logon request
+20241008-08:14:06.997353000 : Socket Error: Connection reset by peer.
+20241008-08:14:06.997756000 : Disconnecting
+20241008-08:15:40.663757000 : Created session
+20241008-08:15:44.828912000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:15:44.852234000 : Received logon request
+20241008-08:15:44.854058000 : Responding to logon request
+20241008-08:15:44.909210000 : Socket Error: Connection reset by peer.
+20241008-08:15:44.909554000 : Disconnecting
+20241008-08:34:26.344971000 : Created session
+20241008-08:36:05.071872000 : Created session
+20241008-08:43:13.033985000 : Created session
+20241008-08:45:53.671586000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:45:53.701272000 : Received logon request
+20241008-08:45:53.704843000 : Responding to logon request
+20241008-08:46:03.683316000 : Received logout request
+20241008-08:46:03.685658000 : Sending logout response
+20241008-08:46:03.686174000 : Disconnecting
+20241008-08:56:54.531392000 : Created session
+20241008-08:56:58.896534000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:56:58.922895000 : Received logon request
+20241008-08:56:58.925015000 : Responding to logon request
+20241008-08:56:58.991121000 : Socket Error: Connection reset by peer.
+20241008-08:56:58.991517000 : Disconnecting
+20241008-08:57:15.310793000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:57:15.353506000 : Received logon request
+20241008-08:57:15.357267000 : Responding to logon request
+20241008-08:57:15.372214000 : Socket Error: Connection reset by peer.
+20241008-08:57:15.373022000 : Disconnecting
+20241008-08:58:35.319286000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:58:35.338770000 : Received logon request
+20241008-08:58:35.341356000 : Responding to logon request
+20241008-08:58:35.385323000 : Socket Error: Connection reset by peer.
+20241008-08:58:35.385776000 : Disconnecting
+20241008-08:59:05.428537000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:59:05.446440000 : Received logon request
+20241008-08:59:05.447940000 : Responding to logon request
+20241008-08:59:05.488602000 : Socket Error: Connection reset by peer.
+20241008-08:59:05.489020000 : Disconnecting
+20241008-09:00:30.236748000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:00:30.268825000 : Received logon request
+20241008-09:00:30.271329000 : Responding to logon request
+20241008-09:00:30.326829000 : Socket Error: Connection reset by peer.
+20241008-09:00:30.327336000 : Disconnecting
+20241008-09:00:44.310439000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:00:44.358495000 : Received logon request
+20241008-09:00:44.361760000 : Responding to logon request
+20241008-09:00:44.369160000 : Socket Error: Connection reset by peer.
+20241008-09:00:44.369910000 : Disconnecting
+20241008-09:08:13.171863000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:08:13.198654000 : Received logon request
+20241008-09:08:13.201108000 : Responding to logon request
+20241008-09:08:13.224898000 : Socket Error: Connection reset by peer.
+20241008-09:08:13.225905000 : Disconnecting
+20241008-09:14:33.801711000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:14:33.822521000 : Received logon request
+20241008-09:14:33.824181000 : Responding to logon request
+20241008-09:14:33.852029000 : Socket Error: Connection reset by peer.
+20241008-09:14:33.852446000 : Disconnecting
+20241008-09:15:11.001413000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:15:11.029699000 : Received logon request
+20241008-09:15:11.032009000 : Responding to logon request
+20241008-09:15:11.100696000 : Socket Error: Connection reset by peer.
+20241008-09:15:11.101118000 : Disconnecting
+20241008-09:15:59.736079000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:15:59.759195000 : Received logon request
+20241008-09:15:59.760917000 : Responding to logon request
+20241008-09:15:59.813879000 : Socket Error: Connection reset by peer.
+20241008-09:15:59.815636000 : Disconnecting
+20241008-09:16:35.725788000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:16:35.778382000 : Received logon request
+20241008-09:16:35.782741000 : Responding to logon request
+20241008-09:16:35.788293000 : Socket Error: Connection reset by peer.
+20241008-09:16:35.788823000 : Disconnecting
+20241008-09:17:08.382826000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:17:08.403255000 : Received logon request
+20241008-09:17:08.404675000 : Responding to logon request
+20241008-09:17:09.452527000 : Socket Error: Connection reset by peer.
+20241008-09:17:09.455531000 : Disconnecting
+20241008-09:21:34.295203000 : Created session
+20241008-09:21:39.087980000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:21:39.107768000 : Received logon request
+20241008-09:21:39.109335000 : Responding to logon request
+20241008-09:21:39.195237000 : Socket Error: Connection reset by peer.
+20241008-09:21:39.196360000 : Disconnecting
+20241008-09:22:27.070830000 : Created session
+20241008-09:22:31.121561000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:22:31.141079000 : Received logon request
+20241008-09:22:31.143159000 : Responding to logon request
+20241008-09:22:31.231232000 : Socket Error: Connection reset by peer.
+20241008-09:22:31.231694000 : Disconnecting
+20241008-09:23:30.158258000 : Created session
+20241008-09:23:37.266189000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:23:37.286280000 : Received logon request
+20241008-09:23:37.287742000 : Responding to logon request
+20241008-09:23:37.361337000 : Socket Error: Connection reset by peer.
+20241008-09:23:37.361746000 : Disconnecting
+20241008-09:24:41.494281000 : Created session
+20241008-09:25:32.247165000 : Created session
+20241008-09:25:37.731924000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:25:37.759526000 : Received logon request
+20241008-09:25:37.763810000 : Responding to logon request
+20241008-09:25:37.828946000 : Socket Error: Connection reset by peer.
+20241008-09:25:37.829386000 : Disconnecting
+20241008-09:26:29.222699000 : Created session
+20241008-09:26:33.500786000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:26:33.525235000 : Received logon request
+20241008-09:26:33.536162000 : Responding to logon request
+20241008-09:26:33.609960000 : Socket Error: Connection reset by peer.
+20241008-09:26:33.610294000 : Disconnecting
+20241008-09:28:08.067194000 : Created session
+20241008-09:28:12.329971000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:28:12.350569000 : Received logon request
+20241008-09:28:12.353257000 : Responding to logon request
+20241008-09:28:12.448605000 : Socket Error: Connection reset by peer.
+20241008-09:28:12.448924000 : Disconnecting
+20241008-09:29:08.194443000 : Created session
+20241008-09:29:12.721028000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:29:12.749029000 : Received logon request
+20241008-09:29:12.751420000 : Responding to logon request
+20241008-09:29:13.757737000 : Received logout request
+20241008-09:29:13.763869000 : Sending logout response
+20241008-09:29:13.764936000 : Disconnecting
+20241008-09:31:00.950392000 : Created session
+20241008-09:31:08.979955000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:31:09.021015000 : Received logon request
+20241008-09:31:09.024741000 : Responding to logon request
+20241008-09:31:12.023094000 : Received logout request
+20241008-09:31:12.030678000 : Sending logout response
+20241008-09:31:12.039782000 : Disconnecting
+20241008-13:37:53.255159000 : Created session
+20241008-13:37:57.774693000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:37:57.829210000 : Received logon request
+20241008-13:37:57.832652000 : Responding to logon request
+20241008-13:38:00.827310000 : Received logout request
+20241008-13:38:00.830060000 : Sending logout response
+20241008-13:38:00.830549000 : Disconnecting
+20241008-13:39:29.798723000 : Created session
+20241008-13:39:39.479251000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:39:39.504184000 : Received logon request
+20241008-13:39:39.506846000 : Responding to logon request
+20241008-13:39:42.528777000 : Received logout request
+20241008-13:39:42.537920000 : Sending logout response
+20241008-13:39:42.538862000 : Disconnecting
+20241008-13:41:58.280415000 : Created session
+20241008-13:42:02.991747000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:42:03.025359000 : Received logon request
+20241008-13:42:03.027216000 : Responding to logon request
+20241008-13:42:05.927811000 : Invalid message: Field tag is invalid: 44
+20241008-13:43:35.132283000 : MsgSeqNum too high, expecting 2 but received 3
+20241008-13:43:35.141657000 : Sent ResendRequest FROM: 2 TO: 0
+20241008-13:43:51.527490000 : Sent test request TEST
+20241008-13:43:51.529329000 : Received ResendRequest FROM: 3 TO: 0
+20241008-13:43:51.530711000 : Sent SequenceReset TO: 5
+20241008-13:45:21.413727000 : MsgSeqNum too high, expecting 2 but received 5
+20241008-13:45:21.414185000 : Already sent ResendRequest FROM: 2 TO: 2.  Not sending another.
+20241008-13:45:39.520326000 : Sent test request TEST
+20241008-13:45:39.522058000 : MsgSeqNum too high, expecting 2 but received 6
+20241008-13:45:39.522161000 : Already sent ResendRequest FROM: 2 TO: 2.  Not sending another.
+20241008-13:47:09.337119000 : MsgSeqNum too high, expecting 2 but received 7
+20241008-13:47:09.337488000 : Already sent ResendRequest FROM: 2 TO: 2.  Not sending another.
+20241008-13:47:27.252322000 : Timed out waiting for heartbeat
+20241008-13:47:27.252641000 : Disconnecting
+20241008-13:48:02.762298000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:48:02.772748000 : Received logon request
+20241008-13:48:02.774165000 : Responding to logon request
+20241008-13:51:14.270185000 : Initiated logout request
+20241008-13:51:14.292160000 : Received logout response
+20241008-13:51:14.293348000 : Disconnecting
+20241008-13:51:45.951482000 : Created session
+20241008-13:51:52.150807000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:51:52.181492000 : Received logon request
+20241008-13:51:52.183749000 : Responding to logon request
+20241008-13:51:55.099292000 : Invalid message: Field tag is invalid: 55
+20241008-13:53:25.549819000 : MsgSeqNum too high, expecting 2 but received 3
+20241008-13:53:25.559882000 : Sent ResendRequest FROM: 2 TO: 0
+20241008-13:53:40.367611000 : Sent test request TEST
+20241008-13:53:40.369704000 : Received ResendRequest FROM: 3 TO: 0
+20241008-13:53:40.370498000 : Sent SequenceReset TO: 5
+20241008-13:54:39.374009000 : Initiated logout request
+20241008-13:54:39.379634000 : Received logout response
+20241008-13:54:39.380143000 : Disconnecting
+20241008-13:55:05.309297000 : Created session
+20241008-13:55:09.677010000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:55:09.692127000 : Received logon request
+20241008-13:55:09.694132000 : Responding to logon request
+20241008-13:55:12.643631000 : Invalid message: Field tag is invalid: 55
+20241008-13:56:42.138748000 : MsgSeqNum too high, expecting 2 but received 3
+20241008-13:56:42.139910000 : Sent ResendRequest FROM: 2 TO: 0
+20241008-13:56:57.004230000 : Sent test request TEST
+20241008-13:56:57.009244000 : Received ResendRequest FROM: 3 TO: 0
+20241008-13:56:57.010578000 : Sent SequenceReset TO: 5
+20241008-13:57:10.858612000 : Initiated logout request
+20241008-13:57:10.884240000 : Received logout response
+20241008-13:57:10.885018000 : Disconnecting
+20241008-13:57:22.497218000 : Created session
+20241008-13:57:26.910517000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:57:26.951983000 : Received logon request
+20241008-13:57:26.977466000 : Responding to logon request
+20241008-13:57:29.821455000 : Invalid message: Field tag is invalid: 44
+20241008-13:58:59.343450000 : MsgSeqNum too high, expecting 2 but received 3
+20241008-13:58:59.348540000 : Sent ResendRequest FROM: 2 TO: 0
+20241008-13:59:14.811389000 : Sent test request TEST
+20241008-13:59:14.827130000 : Received ResendRequest FROM: 3 TO: 0
+20241008-13:59:14.829096000 : Sent SequenceReset TO: 5
+20241008-13:59:32.170565000 : Initiated logout request
+20241008-13:59:32.182034000 : Received logout response
+20241008-13:59:32.190238000 : Disconnecting
+20241008-14:14:16.886241000 : Created session
+20241008-14:14:21.599030000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:14:21.638104000 : Received logon request
+20241008-14:14:21.643017000 : Responding to logon request
+20241008-14:14:24.515782000 : Invalid message: Field tag is invalid: 44
+20241008-14:15:54.811545000 : MsgSeqNum too high, expecting 2 but received 3
+20241008-14:15:54.822547000 : Sent ResendRequest FROM: 2 TO: 0
+20241008-14:16:09.618549000 : Sent test request TEST
+20241008-14:16:09.620474000 : Received ResendRequest FROM: 3 TO: 0
+20241008-14:16:09.622587000 : Sent SequenceReset TO: 5
+20241008-14:17:39.712049000 : MsgSeqNum too high, expecting 2 but received 5
+20241008-14:17:39.712915000 : Already sent ResendRequest FROM: 2 TO: 2.  Not sending another.
+20241008-14:17:57.394183000 : Sent test request TEST
+20241008-14:17:57.405790000 : MsgSeqNum too high, expecting 2 but received 6
+20241008-14:17:57.405983000 : Already sent ResendRequest FROM: 2 TO: 2.  Not sending another.
+20241008-14:18:46.079274000 : Initiated logout request
+20241008-14:18:46.092317000 : Received logout response
+20241008-14:18:46.095050000 : Disconnecting
+20241008-14:18:56.541821000 : Created session
+20241008-14:19:00.806703000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:19:00.829450000 : Received logon request
+20241008-14:19:00.831437000 : Responding to logon request
+20241008-14:19:03.741159000 : Invalid message: Field tag is invalid: 44
+20241008-14:20:33.324442000 : MsgSeqNum too high, expecting 2 but received 3
+20241008-14:20:33.326773000 : Sent ResendRequest FROM: 2 TO: 0
+20241008-14:20:48.164875000 : Sent test request TEST
+20241008-14:20:48.170114000 : Received ResendRequest FROM: 3 TO: 0
+20241008-14:20:48.170892000 : Sent SequenceReset TO: 5
+20241008-14:21:57.123822000 : Initiated logout request
+20241008-14:21:57.131026000 : Received logout response
+20241008-14:21:57.131841000 : Disconnecting
+20241008-14:22:10.262913000 : Created session
+20241008-14:22:15.146382000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:22:15.186245000 : Received logon request
+20241008-14:22:15.190711000 : Responding to logon request
+20241008-14:22:18.088489000 : Invalid message: Field tag is invalid: 44
+20241008-14:23:48.553756000 : MsgSeqNum too high, expecting 2 but received 3
+20241008-14:23:48.560067000 : Sent ResendRequest FROM: 2 TO: 0
+20241008-14:24:03.398102000 : Sent test request TEST
+20241008-14:24:03.428195000 : Received ResendRequest FROM: 3 TO: 0
+20241008-14:24:03.440346000 : Sent SequenceReset TO: 5
+20241008-14:25:33.638514000 : MsgSeqNum too high, expecting 2 but received 5
+20241008-14:25:33.639031000 : Already sent ResendRequest FROM: 2 TO: 2.  Not sending another.
+20241008-14:25:51.274810000 : Sent test request TEST
+20241008-14:25:51.279605000 : MsgSeqNum too high, expecting 2 but received 6
+20241008-14:25:51.279886000 : Already sent ResendRequest FROM: 2 TO: 2.  Not sending another.
+20241008-14:27:02.507076000 : Initiated logout request
+20241008-14:27:02.535604000 : Received logout response
+20241008-14:27:02.537145000 : Disconnecting
+20241008-14:32:03.232543000 : Created session
+20241008-14:32:07.982924000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:32:08.007259000 : Received logon request
+20241008-14:32:08.009781000 : Responding to logon request
+20241008-14:32:08.184472000 : Socket Error: Connection reset by peer.
+20241008-14:32:08.186184000 : Disconnecting
+20241008-14:33:20.252607000 : Created session
+20241008-14:33:24.812217000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:33:24.839924000 : Received logon request
+20241008-14:33:24.842470000 : Responding to logon request
+20241008-14:33:24.960668000 : Socket Error: Connection reset by peer.
+20241008-14:33:24.961443000 : Disconnecting
+20241008-14:34:24.118371000 : Created session
+20241008-14:34:28.526382000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:34:28.558734000 : Received logon request
+20241008-14:34:28.560886000 : Responding to logon request
+20241008-14:34:28.668204000 : Socket Error: Connection reset by peer.
+20241008-14:34:28.669003000 : Disconnecting
+20241008-14:35:26.319061000 : Created session
+20241008-14:35:30.573210000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:35:30.611642000 : Received logon request
+20241008-14:35:30.614346000 : Responding to logon request
+20241008-14:35:30.753588000 : Socket Error: Connection reset by peer.
+20241008-14:35:30.755025000 : Disconnecting
+20241008-14:37:27.150401000 : Created session
+20241008-14:37:31.780670000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:37:31.845996000 : Received logon request
+20241008-14:37:31.848917000 : Responding to logon request
+20241008-14:37:51.785894000 : Initiated logout request
+20241008-14:37:51.803005000 : Received logout response
+20241008-14:37:51.806472000 : Disconnecting
+20241008-14:45:44.786756000 : Created session
+20241008-14:45:49.285671000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:45:49.313252000 : Received logon request
+20241008-14:45:49.316349000 : Responding to logon request
+20241008-16:05:21.538535000 : Socket Error: Connection reset by peer.
+20241008-16:05:21.546431000 : Disconnecting
+20241008-18:18:30.668064000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:18:30.975228000 : Received logon request
+20241008-18:18:31.010747000 : Responding to logon request
+20241008-18:31:41.378786000 : Socket Error: Connection reset by peer.
+20241008-18:31:41.379006000 : Disconnecting
+20241008-18:33:41.332201000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:33:41.358669000 : Received logon request
+20241008-18:33:41.361217000 : Responding to logon request
+20241008-18:36:43.873288000 : Initiated logout request
+20241008-18:36:43.881472000 : Received logout response
+20241008-18:36:43.881979000 : Disconnecting
+20241008-18:36:52.383323000 : Created session
+20241008-18:36:57.556299000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:36:57.578885000 : Received logon request
+20241008-18:36:57.582511000 : Responding to logon request
+20241008-18:36:57.776535000 : Socket Error: Connection reset by peer.
+20241008-18:36:57.779655000 : Disconnecting
+20241008-18:43:02.399705000 : Created session
+20241008-18:43:07.217142000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:43:07.240919000 : Received logon request
+20241008-18:43:07.242901000 : Responding to logon request
+20241008-18:43:07.427756000 : Socket Error: Connection reset by peer.
+20241008-18:43:07.428179000 : Disconnecting
+20241008-18:50:50.633500000 : Created session
+20241008-18:50:54.065225000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:50:54.088608000 : Received logon request
+20241008-18:50:54.089957000 : Responding to logon request
+20241008-18:50:54.257050000 : Socket Error: Connection reset by peer.
+20241008-18:50:54.257547000 : Disconnecting
+20241008-19:10:32.492838000 : Created session
+20241008-19:10:35.846789000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:10:35.863701000 : Received logon request
+20241008-19:10:35.870252000 : Responding to logon request
+20241008-19:10:36.055343000 : Socket Error: Connection reset by peer.
+20241008-19:10:36.055743000 : Disconnecting
+20241008-19:11:50.295476000 : Created session
+20241008-19:11:54.566599000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:11:54.612407000 : Received logon request
+20241008-19:11:54.619616000 : Responding to logon request
+20241008-19:11:54.761162000 : Socket Error: Connection reset by peer.
+20241008-19:11:54.761659000 : Disconnecting
+20241008-19:12:48.038141000 : Created session
+20241008-19:12:52.420892000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:12:52.450500000 : Received logon request
+20241008-19:12:52.452177000 : Responding to logon request
+20241008-19:12:52.567777000 : Socket Error: Connection reset by peer.
+20241008-19:12:52.568477000 : Disconnecting
+20241008-19:13:47.957224000 : Created session
+20241008-19:13:52.569518000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:13:52.629816000 : Received logon request
+20241008-19:13:52.634413000 : Responding to logon request
+20241008-19:13:52.810381000 : Socket Error: Connection reset by peer.
+20241008-19:13:52.810819000 : Disconnecting
+20241008-19:15:01.345260000 : Created session
+20241008-19:15:05.537478000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:15:05.556994000 : Received logon request
+20241008-19:15:05.559854000 : Responding to logon request
+20241008-19:15:05.694327000 : Socket Error: Connection reset by peer.
+20241008-19:15:05.694776000 : Disconnecting
+20241008-19:16:11.414286000 : Created session
+20241008-19:16:16.696453000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:16:16.706873000 : Received logon request
+20241008-19:16:16.711108000 : Responding to logon request
+20241008-19:16:16.827101000 : Socket Error: Connection reset by peer.
+20241008-19:16:16.829939000 : Disconnecting
+20241008-19:17:34.779821000 : Created session
+20241008-19:17:38.535286000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:17:38.561544000 : Received logon request
+20241008-19:17:38.563552000 : Responding to logon request
+20241008-19:17:38.700764000 : Socket Error: Connection reset by peer.
+20241008-19:17:38.702056000 : Disconnecting
+20241009-11:10:37.278835000 : Created session
+20241009-11:10:44.443825000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:10:44.471977000 : Received logon request
+20241009-11:10:44.474827000 : Responding to logon request
+20241009-11:10:44.769585000 : Socket Error: Connection reset by peer.
+20241009-11:10:44.770554000 : Disconnecting
+20241009-11:12:38.637173000 : Created session
+20241009-11:12:42.719741000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:12:42.753020000 : Received logon request
+20241009-11:12:42.754651000 : Responding to logon request
+20241009-11:12:42.889505000 : Socket Error: Connection reset by peer.
+20241009-11:12:42.890096000 : Disconnecting
+20241009-11:14:06.174867000 : Created session
+20241009-11:14:11.835661000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:14:11.870664000 : Received logon request
+20241009-11:14:11.873969000 : Responding to logon request
+20241009-11:14:12.057029000 : Socket Error: Connection reset by peer.
+20241009-11:14:12.058669000 : Disconnecting
+20241009-11:15:37.229298000 : Created session
+20241009-11:15:41.698721000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:15:41.717628000 : Received logon request
+20241009-11:15:41.719938000 : Responding to logon request
+20241009-11:15:41.848995000 : Socket Error: Connection reset by peer.
+20241009-11:15:41.849500000 : Disconnecting
+20241009-11:30:31.676069000 : Created session
+20241009-11:30:36.182455000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:30:36.204206000 : Received logon request
+20241009-11:30:36.206421000 : Responding to logon request
+20241009-11:30:36.387453000 : Socket Error: Connection reset by peer.
+20241009-11:30:36.388209000 : Disconnecting
+20241009-11:31:41.905720000 : Created session
+20241009-11:31:48.213780000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:31:48.248004000 : Received logon request
+20241009-11:31:48.253429000 : Responding to logon request
+20241009-11:31:48.439530000 : Socket Error: Connection reset by peer.
+20241009-11:31:48.440621000 : Disconnecting
+20241009-11:32:53.126615000 : Created session
+20241009-11:32:59.889998000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:32:59.920668000 : Received logon request
+20241009-11:32:59.922955000 : Responding to logon request
+20241009-11:33:00.065358000 : Socket Error: Connection reset by peer.
+20241009-11:33:00.065858000 : Disconnecting
+20241009-11:34:12.804869000 : Created session
+20241009-11:34:24.488827000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:34:24.505961000 : Received logon request
+20241009-11:34:24.510293000 : Responding to logon request
+20241009-11:34:24.617163000 : Socket Error: Connection reset by peer.
+20241009-11:34:24.646605000 : Disconnecting
+20241009-11:37:36.015234000 : Created session
+20241009-11:37:45.677773000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:37:45.697037000 : Received logon request
+20241009-11:37:45.699414000 : Responding to logon request
+20241009-11:37:45.825078000 : Socket Error: Connection reset by peer.
+20241009-11:37:45.825579000 : Disconnecting
+20241009-11:45:32.629164000 : Created session
+20241009-11:45:37.611200000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:45:37.641493000 : Received logon request
+20241009-11:45:37.646942000 : Responding to logon request
+20241009-11:45:37.774299000 : Socket Error: Connection reset by peer.
+20241009-11:45:37.774763000 : Disconnecting
+20241009-11:50:30.381253000 : Created session
+20241009-11:50:34.242169000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:50:34.265071000 : Received logon request
+20241009-11:50:34.267090000 : Responding to logon request
+20241009-11:50:34.375970000 : Socket Error: Connection reset by peer.
+20241009-11:50:34.376900000 : Disconnecting
+20241009-11:52:16.772309000 : Created session
+20241009-11:52:20.963137000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:52:20.997372000 : Received logon request
+20241009-11:52:21.001022000 : Responding to logon request
+20241009-11:52:21.124774000 : Socket Error: Connection reset by peer.
+20241009-11:52:21.125583000 : Disconnecting
+20241009-11:55:04.145392000 : Created session
+20241009-11:55:08.745006000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:55:08.760264000 : Received logon request
+20241009-11:55:08.762754000 : Responding to logon request
+20241009-11:55:08.891959000 : Socket Error: Connection reset by peer.
+20241009-11:55:08.892612000 : Disconnecting
+20241009-11:56:39.631101000 : Created session
+20241009-11:56:44.280954000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:56:44.305210000 : Received logon request
+20241009-11:56:44.306674000 : Responding to logon request
+20241009-11:56:44.412037000 : Socket Error: Connection reset by peer.
+20241009-11:56:44.412231000 : Disconnecting
+20241009-12:02:26.287055000 : Created session
+20241009-12:02:32.945260000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:02:32.969701000 : Received logon request
+20241009-12:02:32.971093000 : Responding to logon request
+20241009-12:02:33.082554000 : Socket Error: Connection reset by peer.
+20241009-12:02:33.082995000 : Disconnecting
+20241009-12:06:00.077260000 : Created session
+20241009-12:06:05.934790000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:06:05.945007000 : Received logon request
+20241009-12:06:05.945967000 : Responding to logon request
+20241009-12:06:06.245842000 : Socket Error: Connection reset by peer.
+20241009-12:06:06.323692000 : Disconnecting
+20241009-12:09:02.154971000 : Created session
+20241009-12:09:08.450632000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:09:08.468772000 : Received logon request
+20241009-12:09:08.470521000 : Responding to logon request
+20241009-12:09:08.588893000 : Socket Error: Connection reset by peer.
+20241009-12:09:08.589218000 : Disconnecting
+20241009-12:10:42.017449000 : Created session
+20241009-12:10:46.258330000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:10:46.290976000 : Received logon request
+20241009-12:10:46.293113000 : Responding to logon request
+20241009-12:10:47.253100000 : Socket Error: Connection reset by peer.
+20241009-12:10:47.361053000 : Disconnecting
+20241009-12:12:16.050494000 : Created session
+20241009-12:12:21.140533000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:12:21.161901000 : Received logon request
+20241009-12:12:21.163794000 : Responding to logon request
+20241009-12:12:21.293762000 : Socket Error: Connection reset by peer.
+20241009-12:12:21.297018000 : Disconnecting
+20241009-12:14:09.394509000 : Created session
+20241009-12:14:14.153203000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:14:14.183006000 : Received logon request
+20241009-12:14:14.185841000 : Responding to logon request
+20241009-12:14:14.366643000 : Socket Error: Connection reset by peer.
+20241009-12:14:14.367066000 : Disconnecting
+20241009-12:18:30.287950000 : Created session
+20241009-12:18:36.092429000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:18:36.112022000 : Received logon request
+20241009-12:18:36.114734000 : Responding to logon request
+20241009-12:18:36.226619000 : Socket Error: Connection reset by peer.
+20241009-12:18:36.227020000 : Disconnecting
+20241009-12:21:02.653364000 : Created session
+20241009-12:21:09.068462000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:21:09.169125000 : Received logon request
+20241009-12:21:09.172891000 : Responding to logon request
+20241009-12:21:09.351420000 : Socket Error: Connection reset by peer.
+20241009-12:21:09.358001000 : Disconnecting
+20241009-12:23:21.266072000 : Created session
+20241009-12:23:26.407606000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:23:26.437694000 : Received logon request
+20241009-12:23:26.443965000 : Responding to logon request
+20241009-12:23:26.559789000 : Socket Error: Connection reset by peer.
+20241009-12:23:26.623340000 : Disconnecting
+20241009-12:25:27.926881000 : Created session
+20241009-12:25:33.112775000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:25:33.144547000 : Received logon request
+20241009-12:25:33.146998000 : Responding to logon request
+20241009-12:25:33.256381000 : Socket Error: Connection reset by peer.
+20241009-12:25:33.257635000 : Disconnecting
+20241009-12:27:18.341312000 : Created session
+20241009-12:27:23.242826000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:27:23.278152000 : Received logon request
+20241009-12:27:23.280640000 : Responding to logon request
+20241009-12:27:23.398428000 : Socket Error: Connection reset by peer.
+20241009-12:27:23.398725000 : Disconnecting
+20241009-12:31:03.938493000 : Created session
+20241009-12:31:09.361541000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:31:09.413653000 : Received logon request
+20241009-12:31:09.418760000 : Responding to logon request
+20241009-12:31:09.553780000 : Socket Error: Connection reset by peer.
+20241009-12:31:09.554352000 : Disconnecting
+20241009-12:32:48.567255000 : Created session
+20241009-12:32:56.166528000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:32:56.190124000 : Received logon request
+20241009-12:32:56.192070000 : Responding to logon request
+20241009-12:32:56.300936000 : Socket Error: Connection reset by peer.
+20241009-12:32:56.306827000 : Disconnecting
+20241009-12:35:25.221613000 : Created session
+20241009-12:35:30.451972000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:35:30.471964000 : Received logon request
+20241009-12:35:30.473385000 : Responding to logon request
+20241009-12:35:30.594212000 : Socket Error: Connection reset by peer.
+20241009-12:35:30.595055000 : Disconnecting
+20241009-12:41:44.085124000 : Created session
+20241009-12:41:48.429961000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:41:48.487601000 : Received logon request
+20241009-12:41:48.491509000 : Responding to logon request
+20241009-12:41:48.599969000 : Socket Error: Connection reset by peer.
+20241009-12:41:48.600393000 : Disconnecting
+20241009-12:43:29.899276000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:43:29.941355000 : Received logon request
+20241009-12:43:29.945232000 : Responding to logon request
+20241009-12:43:30.068324000 : Socket Error: Connection reset by peer.
+20241009-12:43:30.068775000 : Disconnecting
+20241009-13:09:35.002238000 : Created session
+20241009-13:09:42.268297000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:09:42.356646000 : Received logon request
+20241009-13:09:42.357801000 : Responding to logon request
+20241009-13:09:42.691693000 : Socket Error: Connection reset by peer.
+20241009-13:09:42.692139000 : Disconnecting
+20241009-13:17:33.619207000 : Created session
+20241009-13:17:39.942750000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:17:39.996272000 : Received logon request
+20241009-13:17:39.998415000 : Responding to logon request
+20241009-13:17:40.122630000 : Socket Error: Connection reset by peer.
+20241009-13:17:40.128046000 : Disconnecting
+20241009-13:19:21.634514000 : Created session
+20241009-13:19:26.980191000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:19:27.005309000 : Received logon request
+20241009-13:19:27.006326000 : Responding to logon request
+20241009-13:19:27.121220000 : Socket Error: Connection reset by peer.
+20241009-13:19:27.122343000 : Disconnecting
+20241009-13:21:12.877024000 : Created session
+20241009-13:21:18.977210000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:21:18.991159000 : Received logon request
+20241009-13:21:18.992204000 : Responding to logon request
+20241009-13:21:19.211456000 : Socket Error: Connection reset by peer.
+20241009-13:21:19.212258000 : Disconnecting
+20241009-13:23:30.515449000 : Created session
+20241009-13:23:34.665071000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:23:34.717922000 : Received logon request
+20241009-13:23:34.725087000 : Responding to logon request
+20241009-13:23:34.864670000 : Socket Error: Connection reset by peer.
+20241009-13:23:34.865219000 : Disconnecting
+20241009-13:27:14.378386000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:27:14.424491000 : Received logon request
+20241009-13:27:14.428955000 : Responding to logon request
+20241009-13:27:14.579573000 : Socket Error: Connection reset by peer.
+20241009-13:27:14.579953000 : Disconnecting
+20241009-13:31:14.006386000 : Created session
+20241009-13:31:20.791525000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:31:20.825146000 : Received logon request
+20241009-13:31:20.829997000 : Responding to logon request
+20241009-13:31:20.953095000 : Socket Error: Connection reset by peer.
+20241009-13:31:20.953828000 : Disconnecting
+20241009-13:34:15.621157000 : Created session
+20241009-13:34:22.702824000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:34:22.735357000 : Received logon request
+20241009-13:34:22.738731000 : Responding to logon request
+20241009-13:34:22.851178000 : Socket Error: Connection reset by peer.
+20241009-13:34:22.852031000 : Disconnecting
+20241009-13:36:10.646012000 : Created session
+20241009-13:36:15.426809000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:36:15.474921000 : Received logon request
+20241009-13:36:15.479661000 : Responding to logon request
+20241009-13:36:15.606919000 : Socket Error: Connection reset by peer.
+20241009-13:36:15.607775000 : Disconnecting
+20241009-13:40:56.574004000 : Created session
+20241009-13:41:00.870513000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:41:00.905228000 : Received logon request
+20241009-13:41:00.908859000 : Responding to logon request
+20241009-13:41:01.027440000 : Socket Error: Connection reset by peer.
+20241009-13:41:01.027775000 : Disconnecting
+20241009-13:42:54.964722000 : Created session
+20241009-13:43:02.333945000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:43:02.368835000 : Received logon request
+20241009-13:43:02.372561000 : Responding to logon request
+20241009-13:43:02.493123000 : Socket Error: Connection reset by peer.
+20241009-13:43:02.493657000 : Disconnecting
+20241009-13:44:46.932488000 : Created session
+20241009-13:44:51.234954000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:44:51.280100000 : Received logon request
+20241009-13:44:51.284020000 : Responding to logon request
+20241009-13:44:51.484490000 : Socket Error: Connection reset by peer.
+20241009-13:44:51.504979000 : Disconnecting
+20241009-14:19:34.064397000 : Created session
+20241009-14:19:39.942959000 : Created session
+20241009-14:28:20.230211000 : Created session
+20241009-14:28:27.198221000 : Created session
+20241009-14:30:41.272516000 : Created session
+20241009-14:30:46.260661000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-14:30:46.297779000 : Received logon request
+20241009-14:30:46.300229000 : Responding to logon request
+20241009-14:46:42.744522000 : Initiated logout request
+20241009-14:46:42.933303000 : Received logout response
+20241009-14:46:42.933761000 : Disconnecting
+20241009-14:53:28.711856000 : Created session
+20241009-14:54:05.340641000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-14:54:05.395640000 : Received logon request
+20241009-14:54:05.400417000 : Responding to logon request
+20241009-15:13:40.631085000 : Initiated logout request
+20241009-15:13:40.638094000 : Received logout response
+20241009-15:13:40.638931000 : Disconnecting
+20241009-15:13:51.842378000 : Created session
+20241009-15:13:58.295885000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-15:13:58.442806000 : Received logon request
+20241009-15:13:58.444915000 : Responding to logon request
+20241009-15:19:25.550132000 : Received logout request
+20241009-15:19:25.552543000 : Sending logout response
+20241009-15:19:25.553064000 : Disconnecting

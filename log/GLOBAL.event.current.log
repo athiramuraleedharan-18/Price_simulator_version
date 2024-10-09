@@ -1,0 +1,2 @@
+20241002-14:05:50.164565000 : Accepted connection from 127.0.0.1 on port 5002
+20241002-14:05:50.275570000 : Session not found for incoming message: 8=FIX.4.49=12935=A34=149=CLIENT1        # Unique ID for the client52=20241002-14:05:50.16456=MARKETMAKER    # Target server ID98=0108=3010=167

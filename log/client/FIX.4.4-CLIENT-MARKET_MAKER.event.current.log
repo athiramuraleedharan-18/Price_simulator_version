@@ -1,0 +1,620 @@
+20241008-08:08:32.931010000 : Created session
+20241008-08:08:32.932453000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:08:32.979323000 : Initiated logon request
+20241008-08:08:33.010549000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:08:33.012196000 : Received logon response
+20241008-08:08:33.093439000 : Socket Error: Bad file descriptor
+20241008-08:08:33.093827000 : Disconnecting
+20241008-08:09:41.308335000 : Created session
+20241008-08:09:41.317248000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:09:41.385297000 : Initiated logon request
+20241008-08:09:41.477297000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:09:41.499858000 : Received logon response
+20241008-08:09:41.538038000 : Socket Error: Bad file descriptor
+20241008-08:09:41.538981000 : Disconnecting
+20241008-08:14:06.851824000 : Created session
+20241008-08:14:06.853743000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:14:06.928444000 : Initiated logon request
+20241008-08:14:06.951816000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:14:06.952317000 : Received logon response
+20241008-08:14:06.997377000 : Socket Error: Bad file descriptor
+20241008-08:14:06.997736000 : Disconnecting
+20241008-08:15:44.788726000 : Created session
+20241008-08:15:44.790142000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:15:44.828648000 : Initiated logon request
+20241008-08:15:44.854241000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:15:44.854751000 : Received logon response
+20241008-08:15:44.909191000 : Socket Error: Bad file descriptor
+20241008-08:15:44.909514000 : Disconnecting
+20241008-08:31:29.410126000 : Created session
+20241008-08:31:29.411899000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:31:29.472763000 : Initiated logon request
+20241008-08:31:29.476008000 : Socket Error: Connection reset by peer.
+20241008-08:31:29.476252000 : Disconnecting
+20241008-08:44:53.348079000 : Created session
+20241008-08:44:53.350003000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:45:53.623583000 : Created session
+20241008-08:45:53.624946000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:45:53.671285000 : Initiated logon request
+20241008-08:45:53.705254000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:45:53.705713000 : Received logon response
+20241008-08:46:03.678883000 : Initiated logout request
+20241008-08:46:03.686108000 : Received logout response
+20241008-08:46:03.753269000 : Disconnecting
+20241008-08:56:58.851934000 : Created session
+20241008-08:56:58.853236000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:56:58.896094000 : Initiated logon request
+20241008-08:56:58.925352000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:56:58.930302000 : Received logon response
+20241008-08:56:58.991121000 : Socket Error: Bad file descriptor
+20241008-08:56:58.991481000 : Disconnecting
+20241008-08:57:15.222332000 : Created session
+20241008-08:57:15.224266000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:57:15.310074000 : Initiated logon request
+20241008-08:57:15.357892000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:58:35.266500000 : Created session
+20241008-08:58:35.267661000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:58:35.319025000 : Initiated logon request
+20241008-08:58:35.341894000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:58:35.345399000 : Received logon response
+20241008-08:58:35.385267000 : Socket Error: Bad file descriptor
+20241008-08:58:35.385709000 : Disconnecting
+20241008-08:59:05.352810000 : Created session
+20241008-08:59:05.354626000 : Connecting to localhost on port 5001 (Source :0)
+20241008-08:59:05.428299000 : Initiated logon request
+20241008-08:59:05.448114000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-08:59:05.448891000 : Received logon response
+20241008-08:59:05.488635000 : Socket Error: Bad file descriptor
+20241008-08:59:05.489011000 : Disconnecting
+20241008-09:00:30.205893000 : Created session
+20241008-09:00:30.206824000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:00:30.236376000 : Initiated logon request
+20241008-09:00:30.271652000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:00:30.272045000 : Received logon response
+20241008-09:00:30.326805000 : Socket Error: Bad file descriptor
+20241008-09:00:30.327297000 : Disconnecting
+20241008-09:00:44.223569000 : Created session
+20241008-09:00:44.225522000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:00:44.310101000 : Initiated logon request
+20241008-09:00:44.362103000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:08:13.059609000 : Created session
+20241008-09:08:13.061341000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:08:13.171436000 : Initiated logon request
+20241008-09:08:13.201481000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:14:33.691718000 : Created session
+20241008-09:14:33.693352000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:14:33.801378000 : Initiated logon request
+20241008-09:14:33.824483000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:14:33.824924000 : Received logon response
+20241008-09:14:33.851998000 : Socket Error: Bad file descriptor
+20241008-09:14:33.852444000 : Disconnecting
+20241008-09:15:10.939404000 : Created session
+20241008-09:15:10.941053000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:15:11.001142000 : Initiated logon request
+20241008-09:15:11.032308000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:15:11.032668000 : Received logon response
+20241008-09:15:11.100724000 : Socket Error: Bad file descriptor
+20241008-09:15:11.101074000 : Disconnecting
+20241008-09:15:59.671053000 : Created session
+20241008-09:15:59.673522000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:15:59.735863000 : Initiated logon request
+20241008-09:15:59.761115000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:15:59.764729000 : Received logon response
+20241008-09:15:59.813910000 : Socket Error: Bad file descriptor
+20241008-09:15:59.814916000 : Disconnecting
+20241008-09:16:35.629260000 : Created session
+20241008-09:16:35.631761000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:16:35.724929000 : Initiated logon request
+20241008-09:16:35.783463000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:17:08.334911000 : Created session
+20241008-09:17:08.336283000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:17:08.382576000 : Initiated logon request
+20241008-09:17:08.404901000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:17:08.405107000 : Received logon response
+20241008-09:17:09.452503000 : Socket Error: Bad file descriptor
+20241008-09:17:09.455666000 : Disconnecting
+20241008-09:21:39.030911000 : Created session
+20241008-09:21:39.032198000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:21:39.087753000 : Initiated logon request
+20241008-09:22:31.082440000 : Created session
+20241008-09:22:31.083528000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:22:31.121301000 : Initiated logon request
+20241008-09:23:37.176273000 : Created session
+20241008-09:23:37.177987000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:23:37.265822000 : Initiated logon request
+20241008-09:24:47.045463000 : Created session
+20241008-09:24:47.047094000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:25:37.652921000 : Created session
+20241008-09:25:37.654467000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:25:37.731476000 : Initiated logon request
+20241008-09:26:33.420947000 : Created session
+20241008-09:26:33.422823000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:26:33.500534000 : Initiated logon request
+20241008-09:28:12.271411000 : Created session
+20241008-09:28:12.273521000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:28:12.329586000 : Initiated logon request
+20241008-09:29:12.658453000 : Created session
+20241008-09:29:12.660250000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:29:12.720635000 : Initiated logon request
+20241008-09:29:12.751659000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:29:12.751864000 : Received logon response
+20241008-09:29:13.751070000 : Initiated logout request
+20241008-09:29:13.764588000 : Received logout response
+20241008-09:29:13.830618000 : Disconnecting
+20241008-09:31:08.895117000 : Created session
+20241008-09:31:08.896674000 : Connecting to localhost on port 5001 (Source :0)
+20241008-09:31:08.979319000 : Initiated logon request
+20241008-09:31:09.025395000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-09:31:09.026226000 : Received logon response
+20241008-09:31:12.016623000 : Initiated logout request
+20241008-09:31:12.031568000 : Received logout response
+20241008-09:31:12.087535000 : Disconnecting
+20241008-13:37:57.682444000 : Created session
+20241008-13:37:57.684621000 : Connecting to localhost on port 5001 (Source :0)
+20241008-13:37:57.773666000 : Initiated logon request
+20241008-13:37:57.833141000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:37:57.833537000 : Received logon response
+20241008-13:38:00.823175000 : Initiated logout request
+20241008-13:38:00.830498000 : Received logout response
+20241008-13:38:00.866577000 : Disconnecting
+20241008-13:39:39.394201000 : Created session
+20241008-13:39:39.395830000 : Connecting to localhost on port 5001 (Source :0)
+20241008-13:39:39.478805000 : Initiated logon request
+20241008-13:39:39.507032000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:39:39.507258000 : Received logon response
+20241008-13:39:42.500416000 : Initiated logout request
+20241008-13:39:42.538526000 : Received logout response
+20241008-13:39:42.577185000 : Disconnecting
+20241008-13:42:02.889913000 : Created session
+20241008-13:42:02.891727000 : Connecting to localhost on port 5001 (Source :0)
+20241008-13:42:02.990879000 : Initiated logon request
+20241008-13:42:03.027478000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:42:03.027672000 : Received logon response
+20241008-13:43:35.142471000 : Received ResendRequest FROM: 2 TO: 0
+20241008-13:43:35.171431000 : Invalid message: Field tag is invalid: 44
+20241008-13:43:51.527700000 : MsgSeqNum too high, expecting 3 but received 4
+20241008-13:43:51.529111000 : Sent ResendRequest FROM: 3 TO: 0
+20241008-13:43:51.531140000 : ResendRequest for messages FROM: 3 TO: 3 has been satisfied.
+20241008-13:43:51.531347000 : Received SequenceReset FROM: 3 TO: 5
+20241008-13:47:27.252887000 : Socket Error: Connection reset by peer.
+20241008-13:47:27.253073000 : Disconnecting
+20241008-13:48:02.729386000 : Connecting to localhost on port 5001 (Source :0)
+20241008-13:48:02.762159000 : Initiated logon request
+20241008-13:48:02.774337000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:48:02.774538000 : Received logon response
+20241008-13:51:14.278195000 : Received logout request
+20241008-13:51:14.285722000 : Sending logout response
+20241008-13:51:14.336407000 : Disconnecting
+20241008-13:51:14.427760000 : Initiated logon request
+20241008-13:51:52.088695000 : Created session
+20241008-13:51:52.090160000 : Connecting to localhost on port 5001 (Source :0)
+20241008-13:51:52.150414000 : Initiated logon request
+20241008-13:51:52.184035000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:51:52.184292000 : Received logon response
+20241008-13:53:25.560515000 : Received ResendRequest FROM: 2 TO: 0
+20241008-13:53:25.564008000 : Invalid message: Field tag is invalid: 55
+20241008-13:53:40.367859000 : MsgSeqNum too high, expecting 3 but received 4
+20241008-13:53:40.369397000 : Sent ResendRequest FROM: 3 TO: 0
+20241008-13:53:40.370724000 : ResendRequest for messages FROM: 3 TO: 3 has been satisfied.
+20241008-13:53:40.370952000 : Received SequenceReset FROM: 3 TO: 5
+20241008-13:54:39.377273000 : Received logout request
+20241008-13:54:39.379321000 : Sending logout response
+20241008-13:54:39.400668000 : Disconnecting
+20241008-13:54:39.444917000 : Initiated logon request
+20241008-13:55:09.623536000 : Created session
+20241008-13:55:09.625012000 : Connecting to localhost on port 5001 (Source :0)
+20241008-13:55:09.676745000 : Initiated logon request
+20241008-13:55:09.694339000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:55:09.694555000 : Received logon response
+20241008-13:56:42.140250000 : Received ResendRequest FROM: 2 TO: 0
+20241008-13:56:42.140858000 : Invalid message: Field tag is invalid: 55
+20241008-13:56:57.005879000 : MsgSeqNum too high, expecting 3 but received 4
+20241008-13:56:57.008898000 : Sent ResendRequest FROM: 3 TO: 0
+20241008-13:56:57.011296000 : ResendRequest for messages FROM: 3 TO: 3 has been satisfied.
+20241008-13:56:57.011475000 : Received SequenceReset FROM: 3 TO: 5
+20241008-13:57:10.872312000 : Received logout request
+20241008-13:57:10.883516000 : Sending logout response
+20241008-13:57:10.931762000 : Disconnecting
+20241008-13:57:11.013827000 : Initiated logon request
+20241008-13:57:26.810288000 : Created session
+20241008-13:57:26.812187000 : Connecting to localhost on port 5001 (Source :0)
+20241008-13:57:26.905739000 : Initiated logon request
+20241008-13:57:26.978331000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-13:57:26.978666000 : Received logon response
+20241008-13:58:59.349615000 : Received ResendRequest FROM: 2 TO: 0
+20241008-13:58:59.353701000 : Invalid message: Field tag is invalid: 44
+20241008-13:59:14.812276000 : MsgSeqNum too high, expecting 3 but received 4
+20241008-13:59:14.826656000 : Sent ResendRequest FROM: 3 TO: 0
+20241008-13:59:14.829910000 : ResendRequest for messages FROM: 3 TO: 3 has been satisfied.
+20241008-13:59:14.830302000 : Received SequenceReset FROM: 3 TO: 5
+20241008-13:59:32.174019000 : Received logout request
+20241008-13:59:32.181643000 : Sending logout response
+20241008-13:59:32.238457000 : Disconnecting
+20241008-13:59:32.290698000 : Initiated logon request
+20241008-14:14:21.504942000 : Created session
+20241008-14:14:21.507335000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:14:21.598371000 : Initiated logon request
+20241008-14:14:21.643468000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:14:21.643933000 : Received logon response
+20241008-14:15:54.823477000 : Received ResendRequest FROM: 2 TO: 0
+20241008-14:15:54.830196000 : Invalid message: Field tag is invalid: 44
+20241008-14:16:09.618795000 : MsgSeqNum too high, expecting 3 but received 4
+20241008-14:16:09.620241000 : Sent ResendRequest FROM: 3 TO: 0
+20241008-14:16:09.622815000 : ResendRequest for messages FROM: 3 TO: 3 has been satisfied.
+20241008-14:16:09.623100000 : Received SequenceReset FROM: 3 TO: 5
+20241008-14:18:46.087442000 : Received logout request
+20241008-14:18:46.091668000 : Sending logout response
+20241008-14:18:46.140601000 : Disconnecting
+20241008-14:18:46.205021000 : Initiated logon request
+20241008-14:19:00.726036000 : Created session
+20241008-14:19:00.728103000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:19:00.806161000 : Initiated logon request
+20241008-14:19:00.831671000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:19:00.831915000 : Received logon response
+20241008-14:20:33.328259000 : Received ResendRequest FROM: 2 TO: 0
+20241008-14:20:33.334411000 : Invalid message: Field tag is invalid: 44
+20241008-14:20:48.165798000 : MsgSeqNum too high, expecting 3 but received 4
+20241008-14:20:48.169648000 : Sent ResendRequest FROM: 3 TO: 0
+20241008-14:20:48.171090000 : ResendRequest for messages FROM: 3 TO: 3 has been satisfied.
+20241008-14:20:48.171310000 : Received SequenceReset FROM: 3 TO: 5
+20241008-14:21:57.127929000 : Received logout request
+20241008-14:21:57.130396000 : Sending logout response
+20241008-14:21:57.175666000 : Disconnecting
+20241008-14:21:57.231354000 : Initiated logon request
+20241008-14:22:15.069934000 : Created session
+20241008-14:22:15.071404000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:22:15.145409000 : Initiated logon request
+20241008-14:22:15.191194000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:22:15.191605000 : Received logon response
+20241008-14:23:48.561683000 : Received ResendRequest FROM: 2 TO: 0
+20241008-14:23:48.567256000 : Invalid message: Field tag is invalid: 44
+20241008-14:24:03.398500000 : MsgSeqNum too high, expecting 3 but received 4
+20241008-14:24:03.425871000 : Sent ResendRequest FROM: 3 TO: 0
+20241008-14:24:03.440751000 : ResendRequest for messages FROM: 3 TO: 3 has been satisfied.
+20241008-14:24:03.441004000 : Received SequenceReset FROM: 3 TO: 5
+20241008-14:27:02.516642000 : Received logout request
+20241008-14:27:02.535136000 : Sending logout response
+20241008-14:27:02.568481000 : Disconnecting
+20241008-14:27:02.646504000 : Initiated logon request
+20241008-14:32:07.876289000 : Created session
+20241008-14:32:07.877732000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:32:07.982585000 : Initiated logon request
+20241008-14:32:08.009995000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:32:08.010886000 : Received logon response
+20241008-14:33:24.733448000 : Created session
+20241008-14:33:24.739124000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:33:24.811730000 : Initiated logon request
+20241008-14:33:24.842760000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:33:24.843034000 : Received logon response
+20241008-14:34:28.462305000 : Created session
+20241008-14:34:28.463795000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:34:28.525804000 : Initiated logon request
+20241008-14:34:28.561153000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:34:28.561402000 : Received logon response
+20241008-14:35:30.430526000 : Created session
+20241008-14:35:30.431812000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:35:30.572546000 : Initiated logon request
+20241008-14:35:30.614606000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:35:30.614874000 : Received logon response
+20241008-14:37:31.572619000 : Created session
+20241008-14:37:31.573880000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:37:31.780139000 : Initiated logon request
+20241008-14:37:31.849300000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:37:31.849793000 : Received logon response
+20241008-14:37:51.795309000 : Received logout request
+20241008-14:37:51.802578000 : Sending logout response
+20241008-14:37:51.845296000 : Disconnecting
+20241008-14:37:51.932630000 : Initiated logon request
+20241008-14:45:49.224187000 : Created session
+20241008-14:45:49.226665000 : Connecting to localhost on port 5001 (Source :0)
+20241008-14:45:49.284871000 : Initiated logon request
+20241008-14:45:49.316708000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-14:45:49.317113000 : Received logon response
+20241008-14:45:49.328808000 : Message 2 Rejected: Required tag missing:151
+20241008-16:05:21.512717000 : Timed out waiting for heartbeat
+20241008-16:05:21.518363000 : Disconnecting
+20241008-16:05:21.876695000 : Initiated logon request
+20241008-18:18:28.408739000 : Connecting to localhost on port 5001 (Source :0)
+20241008-18:18:30.638156000 : Initiated logon request
+20241008-18:18:31.030748000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:18:31.038400000 : Received logon response
+20241008-18:18:31.300309000 : Message 2 Rejected: Required tag missing:151
+20241008-18:31:41.377376000 : Timed out waiting for heartbeat
+20241008-18:31:41.377942000 : Disconnecting
+20241008-18:31:41.413812000 : Initiated logon request
+20241008-18:33:41.223901000 : Connecting to localhost on port 5001 (Source :0)
+20241008-18:33:41.331768000 : Initiated logon request
+20241008-18:33:41.361401000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:33:41.361544000 : Received logon response
+20241008-18:33:41.389336000 : Message 2 Rejected: Required tag missing:151
+20241008-18:36:43.877636000 : Received logout request
+20241008-18:36:43.881099000 : Sending logout response
+20241008-18:36:43.904837000 : Disconnecting
+20241008-18:36:44.018405000 : Initiated logon request
+20241008-18:36:57.485146000 : Created session
+20241008-18:36:57.486520000 : Connecting to localhost on port 5001 (Source :0)
+20241008-18:36:57.555971000 : Initiated logon request
+20241008-18:36:57.582761000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:36:57.583040000 : Received logon response
+20241008-18:43:07.107401000 : Created session
+20241008-18:43:07.109042000 : Connecting to localhost on port 5001 (Source :0)
+20241008-18:43:07.216423000 : Initiated logon request
+20241008-18:43:07.243147000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:43:07.243357000 : Received logon response
+20241008-18:50:54.021110000 : Created session
+20241008-18:50:54.023372000 : Connecting to localhost on port 5001 (Source :0)
+20241008-18:50:54.064527000 : Initiated logon request
+20241008-18:50:54.090164000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-18:50:54.090374000 : Received logon response
+20241008-19:10:35.815460000 : Created session
+20241008-19:10:35.816920000 : Connecting to localhost on port 5001 (Source :0)
+20241008-19:10:35.845414000 : Initiated logon request
+20241008-19:10:35.870574000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:10:35.875319000 : Received logon response
+20241008-19:11:54.454060000 : Created session
+20241008-19:11:54.456352000 : Connecting to localhost on port 5001 (Source :0)
+20241008-19:11:54.565940000 : Initiated logon request
+20241008-19:11:54.620392000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:11:54.621276000 : Received logon response
+20241008-19:12:52.363239000 : Created session
+20241008-19:12:52.365055000 : Connecting to localhost on port 5001 (Source :0)
+20241008-19:12:52.420285000 : Initiated logon request
+20241008-19:12:52.452933000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:12:52.453511000 : Received logon response
+20241008-19:13:52.446161000 : Created session
+20241008-19:13:52.447747000 : Connecting to localhost on port 5001 (Source :0)
+20241008-19:13:52.568636000 : Initiated logon request
+20241008-19:13:52.634877000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:13:52.635490000 : Received logon response
+20241008-19:15:05.486739000 : Created session
+20241008-19:15:05.488456000 : Connecting to localhost on port 5001 (Source :0)
+20241008-19:15:05.537186000 : Initiated logon request
+20241008-19:15:05.560190000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:15:05.560392000 : Received logon response
+20241008-19:16:16.632389000 : Created session
+20241008-19:16:16.633460000 : Connecting to localhost on port 5001 (Source :0)
+20241008-19:16:16.695917000 : Initiated logon request
+20241008-19:16:16.711597000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:16:16.711966000 : Received logon response
+20241008-19:17:38.462615000 : Created session
+20241008-19:17:38.486253000 : Connecting to localhost on port 5001 (Source :0)
+20241008-19:17:38.535008000 : Initiated logon request
+20241008-19:17:38.563809000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241008-19:17:38.564014000 : Received logon response
+20241009-11:10:44.372733000 : Created session
+20241009-11:10:44.375360000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:10:44.442941000 : Initiated logon request
+20241009-11:10:44.475491000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:10:44.475873000 : Received logon response
+20241009-11:12:42.640614000 : Created session
+20241009-11:12:42.664509000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:12:42.719164000 : Initiated logon request
+20241009-11:12:42.755046000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:12:42.755326000 : Received logon response
+20241009-11:14:11.751484000 : Created session
+20241009-11:14:11.755434000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:14:11.835351000 : Initiated logon request
+20241009-11:14:11.874365000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:14:11.874723000 : Received logon response
+20241009-11:15:41.649979000 : Created session
+20241009-11:15:41.651650000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:15:41.698453000 : Initiated logon request
+20241009-11:15:41.720218000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:15:41.721145000 : Received logon response
+20241009-11:30:36.132766000 : Created session
+20241009-11:30:36.134958000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:30:36.181982000 : Initiated logon request
+20241009-11:30:36.206639000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:30:36.207496000 : Received logon response
+20241009-11:31:48.141592000 : Created session
+20241009-11:31:48.143677000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:31:48.213336000 : Initiated logon request
+20241009-11:31:48.254253000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:31:48.255031000 : Received logon response
+20241009-11:32:59.826408000 : Created session
+20241009-11:32:59.828474000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:32:59.889807000 : Initiated logon request
+20241009-11:32:59.923234000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:32:59.923507000 : Received logon response
+20241009-11:34:24.428830000 : Created session
+20241009-11:34:24.431121000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:34:24.488494000 : Initiated logon request
+20241009-11:34:24.510512000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:34:24.510689000 : Received logon response
+20241009-11:37:45.611407000 : Created session
+20241009-11:37:45.613107000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:37:45.677329000 : Initiated logon request
+20241009-11:37:45.700136000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:37:45.700570000 : Received logon response
+20241009-11:45:37.541576000 : Created session
+20241009-11:45:37.543180000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:45:37.610625000 : Initiated logon request
+20241009-11:45:37.647151000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:45:37.647410000 : Received logon response
+20241009-11:50:34.180837000 : Created session
+20241009-11:50:34.182239000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:50:34.241714000 : Initiated logon request
+20241009-11:50:34.267369000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:50:34.267604000 : Received logon response
+20241009-11:52:20.914001000 : Created session
+20241009-11:52:20.915154000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:52:20.962632000 : Initiated logon request
+20241009-11:52:21.001591000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:52:21.002051000 : Received logon response
+20241009-11:55:08.681434000 : Created session
+20241009-11:55:08.683179000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:55:08.744709000 : Initiated logon request
+20241009-11:55:08.763050000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:55:08.763303000 : Received logon response
+20241009-11:56:44.202149000 : Created session
+20241009-11:56:44.204256000 : Connecting to localhost on port 5001 (Source :0)
+20241009-11:56:44.280710000 : Initiated logon request
+20241009-11:56:44.306970000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-11:56:44.307306000 : Received logon response
+20241009-12:02:32.861889000 : Created session
+20241009-12:02:32.863613000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:02:32.944450000 : Initiated logon request
+20241009-12:02:32.971293000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:02:32.971881000 : Received logon response
+20241009-12:06:05.785602000 : Created session
+20241009-12:06:05.786708000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:06:05.934371000 : Initiated logon request
+20241009-12:06:05.946160000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:06:05.946404000 : Received logon response
+20241009-12:09:08.401337000 : Created session
+20241009-12:09:08.402449000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:09:08.450305000 : Initiated logon request
+20241009-12:09:08.470886000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:09:08.471254000 : Received logon response
+20241009-12:10:46.199699000 : Created session
+20241009-12:10:46.201095000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:10:46.258035000 : Initiated logon request
+20241009-12:10:46.293423000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:10:46.293642000 : Received logon response
+20241009-12:12:21.080504000 : Created session
+20241009-12:12:21.081815000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:12:21.140162000 : Initiated logon request
+20241009-12:12:21.164114000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:12:21.164360000 : Received logon response
+20241009-12:14:14.078054000 : Created session
+20241009-12:14:14.080012000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:14:14.152731000 : Initiated logon request
+20241009-12:14:14.186212000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:14:14.186658000 : Received logon response
+20241009-12:18:36.001522000 : Created session
+20241009-12:18:36.003261000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:18:36.092225000 : Initiated logon request
+20241009-12:18:36.115054000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:18:36.115407000 : Received logon response
+20241009-12:21:08.939678000 : Created session
+20241009-12:21:08.941019000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:21:09.068206000 : Initiated logon request
+20241009-12:21:09.173338000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:21:09.173652000 : Received logon response
+20241009-12:23:26.330501000 : Created session
+20241009-12:23:26.331604000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:23:26.406804000 : Initiated logon request
+20241009-12:23:26.444945000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:23:26.445227000 : Received logon response
+20241009-12:25:33.037218000 : Created session
+20241009-12:25:33.038622000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:25:33.112431000 : Initiated logon request
+20241009-12:25:33.147249000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:25:33.147518000 : Received logon response
+20241009-12:27:23.157465000 : Created session
+20241009-12:27:23.159568000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:27:23.242551000 : Initiated logon request
+20241009-12:27:23.280889000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:27:23.281158000 : Received logon response
+20241009-12:31:09.278179000 : Created session
+20241009-12:31:09.280229000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:31:09.361338000 : Initiated logon request
+20241009-12:31:09.419311000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:31:09.419816000 : Received logon response
+20241009-12:32:56.067994000 : Created session
+20241009-12:32:56.069225000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:32:56.166145000 : Initiated logon request
+20241009-12:32:56.192301000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:32:56.192510000 : Received logon response
+20241009-12:35:30.402602000 : Created session
+20241009-12:35:30.403982000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:35:30.451658000 : Initiated logon request
+20241009-12:35:30.473646000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:35:30.473891000 : Received logon response
+20241009-12:41:48.389247000 : Created session
+20241009-12:41:48.391264000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:41:48.429360000 : Initiated logon request
+20241009-12:41:48.491890000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:41:48.492239000 : Received logon response
+20241009-12:43:29.829871000 : Created session
+20241009-12:43:29.831074000 : Connecting to localhost on port 5001 (Source :0)
+20241009-12:43:29.898832000 : Initiated logon request
+20241009-12:43:29.945816000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-12:43:29.946195000 : Received logon response
+20241009-13:09:42.187381000 : Created session
+20241009-13:09:42.189122000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:09:42.267907000 : Initiated logon request
+20241009-13:09:42.358131000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:09:42.358524000 : Received logon response
+20241009-13:17:39.813644000 : Created session
+20241009-13:17:39.815666000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:17:39.941928000 : Initiated logon request
+20241009-13:17:39.998832000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:17:39.999079000 : Received logon response
+20241009-13:19:26.907434000 : Created session
+20241009-13:19:26.908535000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:19:26.979378000 : Initiated logon request
+20241009-13:19:27.006548000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:19:27.006681000 : Received logon response
+20241009-13:21:18.803711000 : Created session
+20241009-13:21:18.805301000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:21:18.976815000 : Initiated logon request
+20241009-13:21:18.992379000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:21:18.992496000 : Received logon response
+20241009-13:23:34.598223000 : Created session
+20241009-13:23:34.599231000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:23:34.664521000 : Initiated logon request
+20241009-13:23:34.725457000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:23:34.725944000 : Received logon response
+20241009-13:27:14.306599000 : Created session
+20241009-13:27:14.307918000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:27:14.377791000 : Initiated logon request
+20241009-13:27:14.429447000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:27:14.429939000 : Received logon response
+20241009-13:31:20.709538000 : Created session
+20241009-13:31:20.711216000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:31:20.791114000 : Initiated logon request
+20241009-13:31:20.830365000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:31:20.830590000 : Received logon response
+20241009-13:34:22.666301000 : Created session
+20241009-13:34:22.667384000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:34:22.702601000 : Initiated logon request
+20241009-13:34:22.739170000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:34:22.739518000 : Received logon response
+20241009-13:36:15.329446000 : Created session
+20241009-13:36:15.330966000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:36:15.426336000 : Initiated logon request
+20241009-13:36:15.480038000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:36:15.480386000 : Received logon response
+20241009-13:41:00.780446000 : Created session
+20241009-13:41:00.781473000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:41:00.868807000 : Initiated logon request
+20241009-13:41:00.909090000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:41:00.909278000 : Received logon response
+20241009-13:43:02.247937000 : Created session
+20241009-13:43:02.248911000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:43:02.333506000 : Initiated logon request
+20241009-13:43:02.373228000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:43:02.373381000 : Received logon response
+20241009-13:44:51.161651000 : Created session
+20241009-13:44:51.162870000 : Connecting to localhost on port 5001 (Source :0)
+20241009-13:44:51.234601000 : Initiated logon request
+20241009-13:44:51.284402000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-13:44:51.284533000 : Received logon response
+20241009-14:30:46.165709000 : Created session
+20241009-14:30:46.168503000 : Connecting to localhost on port 5001 (Source :0)
+20241009-14:30:46.259658000 : Initiated logon request
+20241009-14:30:46.300483000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-14:30:46.300698000 : Received logon response
+20241009-14:46:42.920315000 : Received logout request
+20241009-14:46:42.932077000 : Sending logout response
+20241009-14:46:43.112217000 : Disconnecting
+20241009-14:46:43.228291000 : Initiated logon request
+20241009-14:46:46.828594000 : Connecting to localhost on port 5001 (Source :0)
+20241009-14:54:05.234784000 : Created session
+20241009-14:54:05.237487000 : Connecting to localhost on port 5001 (Source :0)
+20241009-14:54:05.339994000 : Initiated logon request
+20241009-14:54:05.400863000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-14:54:05.401442000 : Received logon response
+20241009-15:13:40.634349000 : Received logout request
+20241009-15:13:40.637814000 : Sending logout response
+20241009-15:13:40.680051000 : Disconnecting
+20241009-15:13:40.782731000 : Initiated logon request
+20241009-15:13:58.127867000 : Created session
+20241009-15:13:58.129369000 : Connecting to localhost on port 5001 (Source :0)
+20241009-15:13:58.295605000 : Initiated logon request
+20241009-15:13:58.445605000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241009-15:13:58.446560000 : Received logon response
+20241009-15:19:25.547154000 : Initiated logout request
+20241009-15:19:25.553010000 : Received logout response
+20241009-15:19:25.578611000 : Disconnecting

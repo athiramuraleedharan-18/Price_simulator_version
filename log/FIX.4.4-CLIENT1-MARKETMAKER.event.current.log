@@ -1,0 +1,5 @@
+20241002-13:17:41.368210000 : Created session
+20241002-13:17:41.370911000 : Connecting to localhost on port 5001 (Source :0)
+20241002-13:17:41.381727000 : Initiated logon request
+20241002-13:17:41.382332000 : Socket Error: Connection reset by peer.
+20241002-13:17:41.382934000 : Disconnecting
