@@ -1,0 +1,75 @@
+20241017-07:24:14.077025000 : Created session
+20241017-07:24:21.802685000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20241017-07:24:21.844213000 : Received logon request
+20241017-07:24:21.845299000 : Responding to logon request
+20241017-07:25:10.716158000 : Socket Error: Connection reset by peer.
+20241017-07:25:10.716917000 : Disconnecting
+20241017-07:34:36.304155000 : Created session
+20241017-07:34:41.409747000 : MsgSeqNum too low, expecting 3 but received 2
+20241017-07:34:41.410065000 : Disconnecting
+20241017-07:34:41.694595000 : Received logon request
+20241017-07:34:41.695971000 : Responding to logon request
+20241017-07:34:41.696096000 : MsgSeqNum too high, expecting 3 but received 5
+20241017-07:34:41.698869000 : Sent ResendRequest FROM: 3 TO: 0
+20241017-07:34:41.699759000 : Received ResendRequest FROM: 2 TO: 0
+20241017-07:34:41.700994000 : Sent SequenceReset TO: 6
+20241017-07:34:41.702259000 : Received SequenceReset FROM: 3 TO: 7
+20241017-07:34:56.347320000 : ResendRequest for messages FROM: 3 TO: 4 has been satisfied.
+20241017-07:34:59.715306000 : Message 8 Rejected: Required tag missing:146
+20241017-07:35:14.351297000 : Sent test request TEST
+20241017-07:35:21.219040000 : Message 10 Rejected: Required tag missing:146
+20241017-07:35:22.464923000 : Message 11 Rejected: Required tag missing:146
+20241017-07:35:32.267490000 : Sent test request TEST
+20241017-07:35:33.066401000 : Received logout request
+20241017-07:35:33.069719000 : Sending logout response
+20241017-07:35:33.073651000 : Disconnecting
+20241017-07:35:41.511812000 : MsgSeqNum too low, expecting 14 but received 6
+20241017-07:35:41.513623000 : Disconnecting
+20241017-08:22:16.857419000 : Created session
+20241017-08:22:22.538268000 : MsgSeqNum too low, expecting 14 but received 7
+20241017-08:22:22.538779000 : Disconnecting
+20241017-08:22:22.862997000 : MsgSeqNum too low, expecting 14 but received 10
+20241017-08:22:22.863456000 : Disconnecting
+20241017-08:22:52.036860000 : MsgSeqNum too low, expecting 14 but received 13
+20241017-08:22:52.037491000 : Disconnecting
+20241017-08:22:52.404819000 : MsgSeqNum too low, expecting 14 but received 10
+20241017-08:22:52.405732000 : Disconnecting
+20241017-08:23:22.027217000 : Received logon request
+20241017-08:23:22.032907000 : Responding to logon request
+20241017-08:23:22.033457000 : MsgSeqNum too high, expecting 14 but received 16
+20241017-08:23:22.038213000 : Sent ResendRequest FROM: 14 TO: 0
+20241017-08:23:22.039913000 : Received ResendRequest FROM: 5 TO: 0
+20241017-08:23:22.043048000 : Sent SequenceReset TO: 20
+20241017-08:23:22.044446000 : Received SequenceReset FROM: 14 TO: 18
+20241017-08:23:37.324478000 : ResendRequest for messages FROM: 14 TO: 15 has been satisfied.
+20241017-08:23:45.229972000 : Message 19 Rejected: Required tag missing:146
+20241017-08:23:55.367552000 : Sent test request TEST
+20241017-08:24:40.985015000 : Message 24 Rejected: Required tag missing:146
+20241017-08:24:42.482924000 : Message 25 Rejected: Required tag missing:146
+20241017-08:24:54.640795000 : Received logout request
+20241017-08:24:54.643077000 : Sending logout response
+20241017-08:24:54.644431000 : Disconnecting
+20241017-08:25:49.077620000 : Created session
+20241017-08:28:04.557506000 : Created session
+20241017-08:30:19.708942000 : Created session
+20241017-08:30:23.783562000 : Received logon request
+20241017-08:30:23.786834000 : Responding to logon request
+20241017-08:31:31.929488000 : Received logout request
+20241017-08:31:31.931462000 : Sending logout response
+20241017-08:31:31.932362000 : Disconnecting
+20241017-08:44:35.654640000 : Created session
+20241017-08:44:35.917212000 : Created session
+20241017-08:57:32.005257000 : Created session
+20241017-08:57:36.508289000 : Received logon request
+20241017-08:57:36.512311000 : Responding to logon request
+20241017-08:58:29.487130000 : Received logout request
+20241017-08:58:29.487975000 : Sending logout response
+20241017-08:58:29.488198000 : Disconnecting
+20241017-10:04:25.151706000 : Created session
+20241017-10:04:51.401594000 : Received logon request
+20241017-10:04:51.407640000 : Responding to logon request
+20241017-10:05:49.222772000 : Received logout request
+20241017-10:05:49.225000000 : Sending logout response
+20241017-10:05:49.227478000 : Disconnecting
+20241017-10:05:51.631702000 : MsgSeqNum too low, expecting 42 but received 41
+20241017-10:05:51.631839000 : Disconnecting
