@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Request</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin: 50px;
+        }
+        label {
+            font-weight: bold;
+        }
+        #price-output {
+            margin-top: 20px;
+        }
+        .error {
+            color: red;
+        }
+        .success {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Request Price</h1>
+        <form id="price-form">
+            <label for="instrument">Instrument:</label>
+            <input type="text" id="instrument" name="instrument" required>
+            <br><br>
+            <label for="type">Request Type:</label>
+            <select id="type" name="type">
+                <option value="snapshot">Snapshot</option>
+                <option value="updates">Continuous Updates</option>
+            </select>
+            <br><br>
+            <button type="submit">Request Price</button>
+        </form>
+        <div id="price-output"></div>
+        <h2>Manage Subscriptions</h2>
+        <button id="subscribe-button">Subscribe to Updates</button>
+        <button id="unsubscribe-button">Unsubscribe from Updates</button>
+    </div>
+    <script>
+        let isSubscribed = false;
+
+        document.getElementById('price-form').addEventListener('submit', async (event) => {
+            event.preventDefault();
+            const instrument = document.getElementById('instrument').value;
+            const type = document.getElementById('type').value;
+
+            const response = await fetch('/request-price', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ instrument, type, subscribe: isSubscribed }),
+            });
+
+            const result = await response.json();
+            const outputDiv = document.getElementById('price-output');
+            outputDiv.innerHTML = '';
+
+            if (response.ok) {
+                outputDiv.innerHTML = `<span class="success">${result.message}</span>`;
+            } else {
+                outputDiv.innerHTML = `<span class="error">${result.message}</span>`;
+            }
+        });
+
+        document.getElementById('subscribe-button').addEventListener('click', async () => {
+            isSubscribed = true;
+            const instrument = document.getElementById('instrument').value;
+
+            const response = await fetch('/subscribe', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ instrument }),
+            });
+
+            const result = await response.json();
+            alert(result.message);
+        });
+
+        document.getElementById('unsubscribe-button').addEventListener('click', async () => {
+            isSubscribed = false;
+            const instrument = document.getElementById('instrument').value;
+
+            const response = await fetch('/unsubscribe', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ instrument }),
+            });
+
+            const result = await response.json();
+            alert(result.message);
+        });
+    </script>
+</body>
+</html>
